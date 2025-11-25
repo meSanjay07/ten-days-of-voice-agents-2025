@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cell_structure",
+    "title": "Cell Structure",
+    "summary": "Cells are the basic units of life. They contain structures like the nucleus, mitochondria, and cell membrane that help the cell function.",
+    "sample_question": "What are the main parts of a cell and what do they do?"
+  },
+  {
+    "id": "photosynthesis",
+    "title": "Photosynthesis",
+    "summary": "Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen.",
+    "sample_question": "Explain how sunlight and chlorophyll help in photosynthesis."
+  },
+  {
+    "id": "dna",
+    "title": "DNA",
+    "summary": "DNA is the genetic material that carries instructions for growth, development, and functioning of living organisms.",
+    "sample_question": "What is DNA and why is it important for living organisms?"
+  }
+]
